@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: Poppins-Regular ;
+    src: url('../assets/fonts/Poppins/Poppins-Regular.ttf');
+    font-display: swap;
+}
+@font-face {
+    font-family: Poppins-ExtraLight;
+    src: url('../assets/fonts/Poppins/Poppins-ExtraLight.ttf');
+    font-display: swap;
+}
+:root{
+    --font-poppins-reg: 'Poppins-Regular';
+    --font-poppins-extralight: 'Poppins-ExtraLight';
+}

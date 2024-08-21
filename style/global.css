@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: var(--c-Grayish-Blue);
+    font-size: 15px;
+    font-family: var(--font-poppins-reg);
+}

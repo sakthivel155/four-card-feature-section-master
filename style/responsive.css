@@ -1,0 +1,17 @@
+@media screen and (min-width:1024px) {
+    .text-part{
+        max-width: 35%;
+    }
+    .title-xl{
+        font-size: 1.8rem;
+    }
+   
+    .feature-cards{
+      flex-direction: row;
+      gap: 25px;
+      
+    }
+    .feature-card{
+        align-self: center;
+    }
+}

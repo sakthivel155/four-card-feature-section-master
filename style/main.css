@@ -1,0 +1,25 @@
+.text-part {
+    max-width: 20em;
+    margin: 4em auto;
+}
+.feature-img{
+    align-self: flex-end;
+    margin-top: 2em;
+    width: 50px;
+}
+.feature-cards{
+    display: flex;
+    flex-direction:column;
+    
+    width: max-content;
+    margin: 50px auto;
+}
+.feature-card{
+    display: flex;
+    flex-direction: column;
+    max-width:18em;
+    margin-top:25px;
+    padding: 1.5em;
+    border-radius: 5px;
+    box-shadow:0px 5px 15px var(--c-Very-Light-Gray);
+}
